@@ -3,7 +3,7 @@
 - &#129489; Alex Maidana.
 - &#127979; Estudiante:Escuela Tecnica N°1.
 - &#127758; Buenos Aires, Esteban Echaverria.
-- &#128218; Curso 6to 3era.
+- &#128218; Curso 7mo 2da.
 - &#9997; Idiomas Vistos En Clases:
   
   ![html-5](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/2cd2f482-1be0-498f-865f-19763b720e38)
